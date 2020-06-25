@@ -16,3 +16,7 @@ code {
 .handleEditDelete {
     cursor: pointer;
 }
+
+.handleEdit {
+    cursor: pointer;
+}
